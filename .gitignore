@@ -1,0 +1,5 @@
+*.class
+*.dll
+*.ini
+out/*
+bin/*
